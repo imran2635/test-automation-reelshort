@@ -1,0 +1,7 @@
+<suite name="PlaywrightSuite">
+    <test name="BasicTests">
+        <classes>
+            <class name="com.qa.reelshort.tests.HomePageTest"/>
+        </classes>
+    </test>
+</suite>
